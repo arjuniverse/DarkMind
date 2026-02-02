@@ -7,7 +7,6 @@ DarkMind is a minimalist mood tracking web application designed to help users re
 - Optional personal notes for each entry
 - Mood history timeline
 - Weekly mood overview
-- Clean dark-themed UI
 - Light/Dark mode toggle
 - Fully responsive design
 - Data stored locally for privacy
@@ -50,4 +49,5 @@ This project was built to:
 
 ## 📄 License
 This project is open-source and intended for learning and educational use.
+
 
